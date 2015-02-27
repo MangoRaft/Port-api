@@ -8,7 +8,7 @@
   "author": "Tim <mangoraft@gmail.com>",
   "license": "MIT",
   "bin": {
-    "logster": "./bin/api.js"
+    "port-api": "./bin/api.js"
   },
   "name": "port-api",
   "version": "0.0.3",
