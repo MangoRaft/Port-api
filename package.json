@@ -11,7 +11,7 @@
     "logster": "./bin/api.js"
   },
   "name": "port-api",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "REST server for Port",
   "main": "index.js",
   "repository": {
