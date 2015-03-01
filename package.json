@@ -11,7 +11,7 @@
     "port-api": "./bin/api.js"
   },
   "name": "port-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "REST server for Port",
   "main": "index.js",
   "repository": {
